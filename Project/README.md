@@ -17,8 +17,8 @@ Making targets:
 
 Syntax is that for creating Target the files required are dependencies and action is the command to be performed on the dependencies for creating the target
 1) Move to the directory of Project
-2)Change the source Preprocess Assembly Object file names to the required
-3)
+2) Change the source Preprocess Assembly Object file names to the required
+
 Creating Preprocess:
 Make Preprocess
 with this command all the preprocessed outputs will be created
